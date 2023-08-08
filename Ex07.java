@@ -25,6 +25,6 @@ public class Ex07 {
 		dos.writeUTF(c);
 		
 		dos.close();
-		}
+		} 
 
 }
